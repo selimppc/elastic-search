@@ -1,0 +1,19 @@
+{
+    "name": "selimppc/hello-world",
+    "description": "New Apps from SelimReza.com",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Selim Reza",
+        "email": "me@selimreza.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\": "src/HelloWorld/"
+        }
+    }
+}
