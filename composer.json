@@ -20,7 +20,7 @@
             "url": "git@github.com:selimppc/hello-world.git"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "prefer-stable": true,
 
     "autoload": {
