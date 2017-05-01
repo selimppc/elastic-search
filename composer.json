@@ -11,15 +11,7 @@
         "php": ">=5.6",
         "selimppc/hello-world": "@dev"
     },
-    "repositories": [{
-            "type": "vcs",
-            "url": "git@github.com:selimppc/hello-world.git"
-        },
-        {
-            "type": "vcs",
-            "url": "git@github.com:selimppc/hello-world.git"
-        }
-    ],
+
     "minimum-stability": "dev",
     "prefer-stable": true,
 
