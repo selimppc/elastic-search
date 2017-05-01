@@ -7,7 +7,7 @@
         "name": "Selim Reza",
         "email": "me@selimreza.com"
     }],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {
         "selimppc/hello-world": "@dev",
         "php": ">=5.6"
