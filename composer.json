@@ -9,7 +9,7 @@
     }],
     "minimum-stability": "dev",
     "require": {
-        "selimppc/hello-world": "@dev",
+        "selimppc/hello-world": "dev-master",
         "php": ">=5.6"
     },
     "autoload": {
