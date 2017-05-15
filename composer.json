@@ -9,10 +9,10 @@
     }],
     "require": {
         "php": ">=5.6",
-        "selimppc/hello-world": "1.*"
+        "selimppc/hello-world": "dev-mater"
     },
 
-    "minimum-stability": "1.*",
+    "minimum-stability": "dev-master",
     "prefer-stable": true,
 
     "autoload": {
