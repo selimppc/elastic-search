@@ -3,16 +3,16 @@
     "description": "New Apps from SelimReza.com",
     "type": "library",
     "license": "MIT",
+
     "authors": [{
         "name": "Selim Reza",
         "email": "me@selimreza.com"
     }],
+
     "require": {
         "php": ">=5.6",
-        "selimppc/hello-world": "1.0.*@dev"
+        "selimppc/hello-world": "dev"
     },
-    
-    "prefer-stable": true,
 
     "autoload": {
         "psr-4": {
