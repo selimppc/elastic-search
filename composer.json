@@ -1,5 +1,5 @@
 {
-    "name": "php_elasticsearch",
+    "name": "selimppc/elasticsearch",
     "description": "Elastic Search in PHP",
     "type": "library",
     "license": "MIT",
