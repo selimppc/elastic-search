@@ -5,4 +5,4 @@ This is a composer package. First Time I set this up in git. Here is the intrust
 
 Using terminal run the following code :
 
-`composer require selimppc/hello-world:dev-master`
+`composer require selimppc/elastic-search:dev-master`
