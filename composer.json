@@ -1,5 +1,5 @@
 {
-    "name": "elastic-search",
+    "name": "php_elasticsearch",
     "description": "Elastic Search in PHP",
     "type": "library",
     "license": "MIT",
