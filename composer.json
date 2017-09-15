@@ -10,10 +10,9 @@
         "email": "me@selimreza.com"
     }],
 
-    "require": {
-        "php": ">=5.6",
-        "selimppc/elasticsearch": "dev-master"
+    "autoload": {
+        "psr-4": {
+            "Elasticsearch\\": "elasticsearch\\src\\Elasticsearch\\"
+        }
     }
-
-
 }
