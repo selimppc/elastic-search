@@ -12,7 +12,6 @@
 
     "require": {
         "php": ">=5.6",
-        "elasticsearch/elasticsearch": "^5.1",
         "selimppc/elasticsearch": "dev-master"
     },
 
