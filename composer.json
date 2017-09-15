@@ -11,12 +11,9 @@
     }],
 
     "require": {
-        "php": ">=5.6"
-    },
-
-    "autoload": {
-        "psr-4": {
-            "Elasticsearch\\": "selimppc\\elasticsearch\\src\\Elasticsearch\\"
-        }
+        "php": ">=5.6",
+        "selimppc/elasticsearch": "dev-master"
     }
+
+
 }
